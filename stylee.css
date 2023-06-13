@@ -1,0 +1,18 @@
+. *{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+.section{
+    background-color: #CCEEFF;
+    width: 100%;
+    padding: 5% 15% 1%;
+}
+.navbar{
+	background-color: #C6C76B;
+
+}
+.container{
+	background-color: #B4B4AC;
+}
